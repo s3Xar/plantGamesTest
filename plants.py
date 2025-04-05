@@ -152,6 +152,7 @@ def main():
         pygame.display.flip()
         clock.tick(10)
         # Limitar la velocidad de actualización
+        
 
 if __name__ == "__main__":
     main()

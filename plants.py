@@ -2,7 +2,7 @@ import pygame
 import random
 
 # Dimensiones de la ventana y la cuadrícula
-WIDTH, HEIGHT = 1000, 800  # Aumentamos el tamaño de la ventana
+WIDTH, HEIGHT = 500, 500  # Aumentamos el tamaño de la ventana
 GRID_SIZE = 10
 ROWS, COLS = HEIGHT // GRID_SIZE, WIDTH // GRID_SIZE
 
